@@ -1,0 +1,8 @@
+{
+  "name": "auto-tradable-dex",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.5"
+  }
+}
